@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T19:24:28.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="tW_Hr3cC6dZzW4N65B-N" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T19:27:18.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ge-jFBxGuQA_9c__RsMe" version="18.1.3" type="github">
   <diagram id="Pqw9d6dAgv9K82xLI58M" name="Page-1">
     <mxGraphModel dx="474" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,22 +25,22 @@
         <mxCell id="O-o4BMnBMhB0MbKXQopn-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;u&gt;Microsoft&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="131.25" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O-o4BMnBMhB0MbKXQopn-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;job_current&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="O-o4BMnBMhB0MbKXQopn-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;job current&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="253.13" y="278.94" width="63.75" height="16.25" as="geometry" />
         </mxCell>
         <mxCell id="O-o4BMnBMhB0MbKXQopn-12" value="has_job" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="292" y="204" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O-o4BMnBMhB0MbKXQopn-15" value="job0" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O-o4BMnBMhB0MbKXQopn-15" value="Job0" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="208.25" width="30" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="O-o4BMnBMhB0MbKXQopn-20" value="= &quot;False&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="253.13" y="300" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O-o4BMnBMhB0MbKXQopn-25" value="job2" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O-o4BMnBMhB0MbKXQopn-25" value="Job2" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="439" y="208.25" width="27.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="O-o4BMnBMhB0MbKXQopn-31" value="job3" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O-o4BMnBMhB0MbKXQopn-31" value="Job3" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="439" y="285.25" width="27.5" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="O-o4BMnBMhB0MbKXQopn-34" value="has job" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
@@ -55,13 +55,13 @@
         <mxCell id="O-o4BMnBMhB0MbKXQopn-42" value="job title" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="455" y="116.25" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O-o4BMnBMhB0MbKXQopn-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;job_title&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O-o4BMnBMhB0MbKXQopn-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;job title&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="95" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O-o4BMnBMhB0MbKXQopn-44" value="job_title" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O-o4BMnBMhB0MbKXQopn-44" value="job title" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="245" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="O-o4BMnBMhB0MbKXQopn-46" value="job_title" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O-o4BMnBMhB0MbKXQopn-46" value="job title" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="169" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O-o4BMnBMhB0MbKXQopn-48" value="job title" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
@@ -187,7 +187,7 @@
             <mxPoint x="470" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-o4BMnBMhB0MbKXQopn-126" value="job2" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O-o4BMnBMhB0MbKXQopn-126" value="Job2" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="439" y="133" width="27.5" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="O-o4BMnBMhB0MbKXQopn-108" value="in org" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
