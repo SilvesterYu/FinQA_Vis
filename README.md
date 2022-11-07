@@ -1,6 +1,6 @@
 # FinKG_Vis
 
-This is a repo for various visualizations of our FinQA Project. The Project repository will be made public once the paper is accepted. 
+This is a repo for various visualizations of our FinQA Project. ⚠️ The Project repository will be made public once the paper is accepted. 
 
 The official repo's link is here: https://github.com/colab-nyuad/FinQA
 
