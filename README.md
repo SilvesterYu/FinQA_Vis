@@ -2,6 +2,8 @@
 
 This is a repo for various visualizations of our FinQA Project. The Project repository will be made public once the paper is accepted. 
 
+The official repo's link is here: https://github.com/colab-nyuad/FinQA
+
 Below is a copy of the FinQA official repo's README file for an overview of the project.
 
 ---
