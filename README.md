@@ -1,4 +1,4 @@
-# FinKG_Vis
+# FinQA Visualizations
 
 This is a repo for various visualizations of our FinQA Project. ⚠️ The Project repository will be made public once the paper is accepted. 
 
