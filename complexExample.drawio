@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T18:28:21.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="Q4S5g2YY9sgA2VUGpwWZ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T18:31:29.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="XNypJcXNYvs53l8aW7RM" type="github">
   <diagram id="ldidZGyAPZVir1xh5pG7" name="Page-1">
-    <mxGraphModel dx="501" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="619" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S9HupeFHgvLmfnn3ni2o-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;dashed=1;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="700" y="140" width="150" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-42" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="640" y="150" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;dashed=1;strokeColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="557" y="90" width="50" height="250" as="geometry" />
+          <mxGeometry x="557" y="100" width="50" height="240" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;dashed=1;strokeColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="380" y="100" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="560" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=10;whiteSpace=wrap;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="371.5" y="250" width="67" height="40" as="geometry" />
@@ -69,16 +72,16 @@
           <mxGeometry x="562" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-20" value="title2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="564.5" y="110" width="35" height="15" as="geometry" />
+          <mxGeometry x="564.5" y="117.5" width="35" height="15" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;= &quot;founder&quot;&lt;br&gt;or = &quot;co-founder&quot;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="599.5" y="99" width="80.5" height="30" as="geometry" />
+          <mxGeometry x="599.5" y="110" width="80.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-26" value="&lt;font color=&quot;#ea6b66&quot; face=&quot;Times New Roman&quot;&gt;Entity constraint 1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-29" value="&lt;font color=&quot;#ea6b66&quot; face=&quot;Times New Roman&quot;&gt;Entity constraint 2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="537" y="69" width="90" height="30" as="geometry" />
+          <mxGeometry x="537" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-30" value="org2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="650" y="160" width="50" height="40" as="geometry" />
@@ -115,6 +118,9 @@
         </mxCell>
         <mxCell id="S9HupeFHgvLmfnn3ni2o-45" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;select the person with count &amp;gt; x&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="776" y="202.5" width="64" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="S9HupeFHgvLmfnn3ni2o-52" value="&lt;font color=&quot;#ea6b66&quot; face=&quot;Times New Roman&quot;&gt;Numeric constraint&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
