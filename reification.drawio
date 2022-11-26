@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T14:17:16.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1hTHIxnSL1BeRKBzqykX" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T14:18:20.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YeoaArPt_YQpZE6mozh0" version="20.6.0" type="github">
   <diagram id="nNupsj4jywxEakiYjryM" name="Page-1">
     <mxGraphModel dx="865" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,11 +12,11 @@
         </mxCell>
         <mxCell id="jz-TBpXuQfXwvzFLT4BO-21" value="type of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="jz-TBpXuQfXwvzFLT4BO-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2106" relative="1" as="geometry">
-            <mxPoint y="5" as="offset" />
+            <mxPoint y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jz-TBpXuQfXwvzFLT4BO-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Bill Gates&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="120" width="80" height="35" as="geometry" />
+          <mxGeometry x="30" y="120" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jz-TBpXuQfXwvzFLT4BO-13" value="in_org" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" parent="1" source="jz-TBpXuQfXwvzFLT4BO-7" target="jz-TBpXuQfXwvzFLT4BO-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="169.5" y="40" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jz-TBpXuQfXwvzFLT4BO-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;person&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="43.5" y="200" width="33" height="10" as="geometry" />
+          <mxGeometry x="53.5" y="200" width="33" height="10" as="geometry" />
         </mxCell>
         <mxCell id="jz-TBpXuQfXwvzFLT4BO-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;job&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="193" y="200" width="33" height="10" as="geometry" />
