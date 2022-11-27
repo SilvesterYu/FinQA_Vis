@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T05:45:32.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tZFfaufInbwlLZYDM59B" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T05:48:37.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EU4xfLU4mi7rShFRyzzB" version="20.6.0" type="github">
   <diagram id="pnbUqi_Hy17aBZIksYAF" name="Page-1">
-    <mxGraphModel dx="1404" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1551" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a-9U6CClr2q3S8oe1rE5-34" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="195" width="92" height="185" as="geometry" />
+        </mxCell>
         <mxCell id="a-9U6CClr2q3S8oe1rE5-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="278" y="195" width="92" height="185" as="geometry" />
         </mxCell>
@@ -90,6 +93,9 @@
         </mxCell>
         <mxCell id="a-9U6CClr2q3S8oe1rE5-29" value="&lt;b&gt;&lt;u&gt;Triple types&lt;/u&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="279" y="150" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a-9U6CClr2q3S8oe1rE5-31" value="&lt;b&gt;&lt;u&gt;Main entities&lt;/u&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="150" width="82" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
