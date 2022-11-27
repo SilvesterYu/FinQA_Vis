@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T20:31:15.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="obeYCR9_eYs9LCVn06wJ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T20:38:53.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="WXdSJpSIBbMB-L-Lg5S_" type="github">
   <diagram id="4DsjaRishaLQiJgpKdBr" name="Page-1">
-    <mxGraphModel dx="438" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="438" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
             <mxPoint x="280" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bp0WPxIX66T1x0v9bAih-10" value="Tail entity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="320" y="165" width="60" height="30" as="geometry" />
+        <mxCell id="Bp0WPxIX66T1x0v9bAih-10" value="Answer entity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="320" y="165" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bp0WPxIX66T1x0v9bAih-12" value="&lt;font color=&quot;#ea6b66&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Temporal constraint&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="50" width="110" height="20" as="geometry" />
