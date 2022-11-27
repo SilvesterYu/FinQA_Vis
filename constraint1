@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T20:11:27.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="iFTUrX2AkWXMDXyZ_EaV" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T20:37:44.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="uKqDrYFtY1B9r7X9cUNB" type="github">
   <diagram id="50rMCRImLwoTMRVvQpYY" name="Page-1">
     <mxGraphModel dx="526" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,8 +42,8 @@
         <mxCell id="rFXowegjZRmhvIvWNKh0-17" value="Head entity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="90" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rFXowegjZRmhvIvWNKh0-18" value="Tail entity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="320" y="165" width="60" height="30" as="geometry" />
+        <mxCell id="rFXowegjZRmhvIvWNKh0-18" value="Answer entity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="320" y="165" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
