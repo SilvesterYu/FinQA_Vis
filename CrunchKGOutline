@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T14:25:05.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="_FCddu3tFJsjmWELnDnN" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T14:27:31.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="-XgYd6ae5rGnhCIM1kyr" type="github">
   <diagram id="A4y71Pjt033xqSf_WiUy" name="Page-1">
-    <mxGraphModel dx="751" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="oCUgO6cNdpozY8Zdkugp-7" value="Construct CrunchQA Question-Answering &lt;b&gt;dataset&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oCUgO6cNdpozY8Zdkugp-9" value="traverse the graph using" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oCUgO6cNdpozY8Zdkugp-9" value="traverse the graph using a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCUgO6cNdpozY8Zdkugp-10" value="Compute graph &lt;b&gt;embeddings&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,14 +43,14 @@
         <mxCell id="oCUgO6cNdpozY8Zdkugp-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=10;dx1=20;notch=20;arrowHead=20;dx2=25;dy2=30;" vertex="1" parent="1">
           <mxGeometry x="530" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oCUgO6cNdpozY8Zdkugp-17" value="&lt;b&gt;Experiments &lt;/b&gt;to evaluation using Hits@1 as metric for question-answer &lt;b&gt;prediction&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oCUgO6cNdpozY8Zdkugp-17" value="&lt;b&gt;Experiments:&lt;/b&gt;&amp;nbsp;evaluation using Hits@1 as metric for question-answer &lt;b&gt;prediction&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="140" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oCUgO6cNdpozY8Zdkugp-18" value="Hits@1: fraction of correct first predictions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="200" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCUgO6cNdpozY8Zdkugp-23" value="Question-answering &lt;b&gt;dataset generator&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="240" width="110" height="30" as="geometry" />
+          <mxGeometry x="316" y="240" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
